@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Neuron_2.srcs/sources_1/new/bias_memory.v" \
+"../../../../Neuron_2.srcs/sources_1/new/new_neuron.v" \
+"../../../../Neuron_2.srcs/sources_1/new/new_prod.v" \
+"../../../../Neuron_2.srcs/sources_1/new/sigmoid.v" \
+"../../../../Neuron_2.srcs/sources_1/new/weight_mem.v" \
+"../../../../Neuron_2.srcs/sim_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

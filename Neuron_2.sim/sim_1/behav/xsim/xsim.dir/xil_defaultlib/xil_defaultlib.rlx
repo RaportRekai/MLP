@@ -1,0 +1,11 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sim_1/new/testbench.v,1690183253,verilog,,,,testbench,,,,,,,,
+C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/bias_memory.v,1683695355,verilog,,C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/new_neuron.v,,bias_memory,,,,,,,,
+C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/new_neuron.v,1690201602,verilog,,C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/new_prod.v,,new_neuron,,,,,,,,
+C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/new_prod.v,1689946585,verilog,,C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/sigmoid.v,,new_prod,,,,,,,,
+C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/sigmoid.v,1690190181,verilog,,C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/weight_mem.v,,sigmoid,,,,,,,,
+C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/weight_mem.v,1686651820,verilog,,C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sim_1/new/testbench.v,,weight_mem,,,,,,,,

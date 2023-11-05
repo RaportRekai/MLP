@@ -1,0 +1,26 @@
+Vivado Simulator v2022.1
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2022.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot testbench_behav xil_defaultlib.testbench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 8 for port 'bias_add' [C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sim_1/new/testbench.v:17]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'mult' [C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sim_1/new/testbench.v:19]
+WARNING: [VRFC 10-3091] actual bit length 29 differs from formal bit length 8 for port 'sout' [C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sim_1/new/testbench.v:21]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 2 for port 'radd' [C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/new_neuron.v:95]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/new_neuron.v" Line 2. Module new_neuron(out_width=8,numWeight=30,in_depth=8) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/bias_memory.v" Line 1. Module bias_memory(addressWidth=0,dataWidth=16) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/new_neuron.v" Line 2. Module new_neuron(out_width=8,numWeight=30,in_depth=8) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/bias_memory.v" Line 1. Module bias_memory(addressWidth=0,dataWidth=16) doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.weight_mem(numWeight=30,adressWi...
+Compiling module xil_defaultlib.bias_memory(addressWidth=0,dataW...
+Compiling module xil_defaultlib.new_prod(in_depth=8,w_depth=16,a...
+Compiling module xil_defaultlib.sigmoid
+Compiling module xil_defaultlib.new_neuron(out_width=8,numWeight...
+Compiling module xil_defaultlib.testbench
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot testbench_behav

@@ -1,0 +1,13 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/bias_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bias_memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/new_neuron.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module new_neuron
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'sout' is not allowed [C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/new_neuron.v:52]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/new_prod.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module new_prod
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/sigmoid.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sigmoid
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sources_1/new/weight_mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module weight_mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench

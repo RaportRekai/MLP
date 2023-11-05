@@ -1,0 +1,25 @@
+Time resolution is 1 ps
+WARNING: Too many words specified in data file weight_n1.mem
+                   0inpt_valid = x, sout =         z, inpt =   3
+                   5inpt_valid = 1, sout =         z, inpt =   5
+                  15inpt_valid = 1, sout =         z, inpt =   2
+                  25inpt_valid = 1, sout =         z, inpt =   9
+                  35inpt_valid = 1, sout =         z, inpt =   7
+                  45inpt_valid = 1, sout =         z, inpt =   4
+$finish called at time : 490 ns : File "C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sim_1/new/testbench.v" Line 358
+WARNING: Too many words specified in data file weight_n1.mem
+                   0inpt_valid = x, sout =         z, inpt =   3
+                   5inpt_valid = 1, sout =         z, inpt =   5
+                  15inpt_valid = 1, sout =         z, inpt =   2
+                  25inpt_valid = 1, sout =         z, inpt =   9
+                  35inpt_valid = 1, sout =         z, inpt =   7
+                  45inpt_valid = 1, sout =         z, inpt =   4
+$finish called at time : 490 ns : File "C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sim_1/new/testbench.v" Line 358
+WARNING: Too many words specified in data file weight_n1.mem
+                   0inpt_valid = x, sout =         z, inpt =   3
+                   5inpt_valid = 1, sout =         z, inpt =   5
+                  15inpt_valid = 1, sout =         z, inpt =   2
+                  25inpt_valid = 1, sout =         z, inpt =   9
+                  35inpt_valid = 1, sout =         z, inpt =   7
+                  45inpt_valid = 1, sout =         z, inpt =   4
+$finish called at time : 490 ns : File "C:/Users/danma/OneDrive/Desktop/Summer research internship/Neuron_2/Neuron_2.srcs/sim_1/new/testbench.v" Line 358
